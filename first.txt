@@ -1,2 +1,4 @@
 文字パケUTF-8
 
+git add
+git commit
